@@ -2504,6 +2504,12 @@
 		(uuid "49010081-dc4a-4f56-a825-b59b6cd5f97f")
 	)
 	(junction
+		(at 106.68 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60db6ca3-f3b6-4aba-929e-75df08c92d19")
+	)
+	(junction
 		(at 66.04 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2586,6 +2592,16 @@
 			(type default)
 		)
 		(uuid "1ceb2533-7442-475b-9f1e-34d390ab4d1f")
+	)
+	(wire
+		(pts
+			(xy 106.68 63.5) (xy 106.68 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "230eb1d6-10c1-4200-99e3-a4d9e76327e9")
 	)
 	(wire
 		(pts
@@ -2739,6 +2755,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 57.15) (xy 106.68 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fa30b2f-7033-450f-a0b3-cbbc3a1e69f3")
+	)
+	(wire
+		(pts
 			(xy 130.81 22.86) (xy 130.81 21.59)
 		)
 		(stroke
@@ -2886,6 +2912,16 @@
 			(type default)
 		)
 		(uuid "a7b0b5de-628a-473e-960d-48e956a043fd")
+	)
+	(wire
+		(pts
+			(xy 106.68 57.15) (xy 115.57 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab683318-11fc-4c9b-907e-49b7181dbad9")
 	)
 	(wire
 		(pts
@@ -3089,7 +3125,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 57.15) (xy 115.57 57.15)
+			(xy 102.87 57.15) (xy 106.68 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3206,7 +3242,7 @@
 		)
 		(uuid "040676d9-0f99-4de3-bad3-564cc041f80c")
 	)
-	(hierarchical_label "CBUS4"
+	(hierarchical_label "CBUS3"
 		(shape input)
 		(at 152.4 72.39 0)
 		(effects
@@ -3219,7 +3255,7 @@
 	)
 	(hierarchical_label "RESET"
 		(shape input)
-		(at 114.3 57.15 180)
+		(at 102.87 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3294,7 +3330,7 @@
 		)
 		(uuid "aa4c67ec-9b14-485e-80e7-457206d8c6ef")
 	)
-	(hierarchical_label "CBUS3"
+	(hierarchical_label "CBUS2"
 		(shape input)
 		(at 152.4 69.85 0)
 		(effects
@@ -3715,6 +3751,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 106.68 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36a43242-87dc-471a-b619-88c6604aae7e")
+		(property "Reference" "R23"
+			(at 109.22 59.6899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 109.22 62.2299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 106.68 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0ae25e64-ec86-4459-9245-eede40459de1")
+		)
+		(pin "2"
+			(uuid "f17ccbde-c6e0-4142-a543-82b32115bd52")
+		)
+		(instances
+			(project "Mega2560plus"
+				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/9ebd6e1c-7f74-48f6-9134-d6008fa8412d"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 80.01 27.94 0)
 		(unit 1)
@@ -4046,6 +4164,84 @@
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/9ebd6e1c-7f74-48f6-9134-d6008fa8412d"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 106.68 64.77 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "74d127b0-b647-4765-9c05-ed6f32b281f9")
+		(property "Reference" "#PWR0112"
+			(at 106.68 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 106.68 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 106.68 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "face6bbc-0570-46af-ba2a-e6112cef31e0")
+		)
+		(instances
+			(project "Mega2560plus"
+				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/9ebd6e1c-7f74-48f6-9134-d6008fa8412d"
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)

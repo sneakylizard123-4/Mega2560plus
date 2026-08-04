@@ -2907,6 +2907,12 @@
 		(uuid "3532587d-ce71-481a-b917-c04674b8bd77")
 	)
 	(junction
+		(at 22.86 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3736624d-b012-4fc0-90ce-6f95dfa1f7bf")
+	)
+	(junction
 		(at 45.72 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3751,6 +3757,16 @@
 			(type default)
 		)
 		(uuid "986bd470-5dbf-48d2-8f4a-7a1e88407fe7")
+	)
+	(wire
+		(pts
+			(xy 21.59 57.15) (xy 22.86 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c6405e3-3621-4d11-8de4-1714b32ffcf8")
 	)
 	(wire
 		(pts
@@ -4863,6 +4879,17 @@
 			(justify right)
 		)
 		(uuid "a188ec05-24e5-48fa-9ee9-f821c535454f")
+	)
+	(hierarchical_label "AREF"
+		(shape input)
+		(at 21.59 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a6acead3-5774-41b5-9062-2d5cc21b4681")
 	)
 	(hierarchical_label "PL4"
 		(shape input)

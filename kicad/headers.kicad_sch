@@ -4521,6 +4521,30 @@
 		)
 		(uuid "ff46ffd7-aee7-4481-9fc0-621ff7957a12")
 	)
+	(global_label "VIN"
+		(shape input)
+		(at 33.02 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bbdc434a-534a-4022-a45f-941e772b13c4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.0109 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(hierarchical_label "IO48"
 		(shape input)
 		(at 170.18 38.1 180)
@@ -4729,17 +4753,6 @@
 			(justify left)
 		)
 		(uuid "3338289d-af44-4101-a0f4-2f987cc65d5e")
-	)
-	(hierarchical_label "Vin"
-		(shape input)
-		(at 33.02 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "33ca4eee-8e55-473a-9b28-4fc2dfdfd7d5")
 	)
 	(hierarchical_label "D19"
 		(shape input)

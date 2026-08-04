@@ -2077,6 +2077,12 @@
 		)
 	)
 	(junction
+		(at 38.1 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b3815aa-28d2-4cb0-966d-ede01ddd5f34")
+	)
+	(junction
 		(at 232.41 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2331,6 +2337,16 @@
 			(type default)
 		)
 		(uuid "1d043c09-30a1-43b0-b7cf-fb7a9b1e2a5d")
+	)
+	(wire
+		(pts
+			(xy 38.1 35.56) (xy 44.45 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27e570fa-9112-446b-9587-d1c1e7be3854")
 	)
 	(wire
 		(pts
@@ -2694,7 +2710,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 35.56) (xy 44.45 35.56)
+			(xy 33.02 35.56) (xy 38.1 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2821,6 +2837,16 @@
 			(type default)
 		)
 		(uuid "b81078c2-9562-43a8-a113-3dce17e4953b")
+	)
+	(wire
+		(pts
+			(xy 38.1 34.29) (xy 38.1 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba1c9ecb-ef71-4ae3-ad4b-4415c97d1744")
 	)
 	(wire
 		(pts
@@ -3121,6 +3147,30 @@
 			(type default)
 		)
 		(uuid "fb18bcf4-4704-47a5-8654-9f22813058f7")
+	)
+	(global_label "VIN"
+		(shape input)
+		(at 38.1 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8ea0ca67-20c5-4b7b-8f93-b0b9a56bd72e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 38.1 28.2809 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Regulator_Linear:TLV75733PDBV")
