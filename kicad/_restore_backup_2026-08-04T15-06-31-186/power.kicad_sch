@@ -3686,7 +3686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 267.97 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -3756,7 +3756,7 @@
 				)
 			)
 		)
-		(property "Value" "2.1mm ID 5.5mm OD PJ-102AH"
+		(property "Value" "2.1mm ID 5.5mm OD"
 			(at 25.4 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3766,7 +3766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal"
+		(property "Footprint" "PJ-102AH"
 			(at 26.67 39.116 0)
 			(hide yes)
 			(show_name no)
@@ -3851,7 +3851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -4024,7 +4024,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 267.97 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -4106,7 +4106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 86.36 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -4188,7 +4188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 232.41 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -4270,7 +4270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 90.17 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4352,7 +4352,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 257.81 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -4512,7 +4512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 257.81 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -4594,7 +4594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 76.2 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5000,7 +5000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 232.41 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -5238,7 +5238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 222.25 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -5320,7 +5320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 49.53 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5468,7 +5468,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH Coilcraft XAL5030-222MEC"
+		(property "Value" "2.2uH"
 			(at 121.92 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5478,7 +5478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Coilcraft_XAL5030-XXX"
+		(property "Footprint" ""
 			(at 121.92 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -5740,7 +5740,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 130.81 41.91 0)
 			(hide yes)
 			(show_name no)

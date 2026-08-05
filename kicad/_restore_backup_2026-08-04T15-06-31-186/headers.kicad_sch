@@ -3873,16 +3873,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 35.56) (xy 185.42 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61e512bf-e897-44b4-923f-b04f4f8e6add")
-	)
-	(wire
-		(pts
 			(xy 106.68 64.77) (xy 107.95 64.77)
 		)
 		(stroke
@@ -4560,6 +4550,16 @@
 			(type default)
 		)
 		(uuid "f80926c0-7b2a-481c-8b98-09702f38ba8a")
+	)
+	(wire
+		(pts
+			(xy 185.42 35.56) (xy 184.15 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa582d73-a4d2-49d9-af0c-6706c86775f8")
 	)
 	(wire
 		(pts
@@ -5451,6 +5451,17 @@
 		)
 		(uuid "dd9807e5-d43b-41c8-80f9-d2b3b71fe89a")
 	)
+	(hierarchical_label "IO39"
+		(shape input)
+		(at 185.42 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de9a3de8-0066-415d-9478-7ef812baaef3")
+	)
 	(hierarchical_label "D17"
 		(shape input)
 		(at 106.68 76.2 180)
@@ -5687,7 +5698,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bd4f052-1b8d-4e55-8951-3328d06e164f")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR0101"
 			(at 25.4 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -5747,7 +5758,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0138")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -5845,7 +5856,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24696be7-69ae-455f-90f0-bbd96f276c39")
-		(property "Reference" "#PWR0144"
+		(property "Reference" "#PWR0107"
 			(at 90.17 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5905,7 +5916,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0144")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -5923,7 +5934,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27f528e8-c2ba-4f55-a83a-501923ed092b")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR0114"
 			(at 222.25 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -5983,7 +5994,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0152")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -6207,7 +6218,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42c478c5-8f80-4e72-8cd2-3fe2acf83265")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR0106"
 			(at 76.2 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6267,7 +6278,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0143")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -6285,7 +6296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49fbf2b6-5168-4f53-ae2c-4ad153174afb")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR0105"
 			(at 76.2 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6345,7 +6356,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0142")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -6363,7 +6374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5143fe14-0496-4e70-af55-7cca7b853cdf")
-		(property "Reference" "#PWR0147"
+		(property "Reference" "#PWR0110"
 			(at 163.83 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6423,7 +6434,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0147")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -6441,7 +6452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53deadd3-0d48-48b2-8ef6-25e01fcc6a01")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR0104"
 			(at 74.93 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6501,7 +6512,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0141")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -6519,7 +6530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f78c996-6ac3-4165-b533-aec50db2bd80")
-		(property "Reference" "#PWR0145"
+		(property "Reference" "#PWR0108"
 			(at 90.17 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6579,7 +6590,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0145")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -6597,7 +6608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "726de95a-a71d-4504-ba99-f20edaa59271")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR0100"
 			(at 25.4 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -6657,86 +6668,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0137")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 185.42 35.56 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "73e0ba2e-561a-4720-9130-39c82e762510")
-		(property "Reference" "#PWR0149"
-			(at 181.61 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 189.23 35.5599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 185.42 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ca052440-d376-4b1d-b19f-3eba0607b308")
-		)
-		(instances
-			(project "Mega2560plus"
-				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0149")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -6854,7 +6786,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93996b76-4aeb-488b-8c47-1ae065d8e373")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR099"
 			(at 21.59 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6914,7 +6846,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0136")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -7116,7 +7048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0cfa7d3-177c-4256-b2fd-01ec0c5bb119")
-		(property "Reference" "#PWR0153"
+		(property "Reference" "#PWR0115"
 			(at 222.25 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -7176,7 +7108,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0153")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -7194,7 +7126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8478f97-8c46-4034-8d4e-b21c47d500a5")
-		(property "Reference" "#PWR0146"
+		(property "Reference" "#PWR0109"
 			(at 95.25 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -7255,7 +7187,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0146")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -7293,7 +7225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical"
+		(property "Footprint" ""
 			(at 176.53 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7483,7 +7415,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5a6a27c-cb1f-4612-abc4-0cc3cef9618e")
-		(property "Reference" "#PWR0151"
+		(property "Reference" "#PWR0113"
 			(at 195.58 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -7543,7 +7475,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0151")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -7561,7 +7493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfd47cba-95f0-49e9-9a02-5bc3aa39d4bc")
-		(property "Reference" "#PWR0150"
+		(property "Reference" "#PWR0112"
 			(at 185.42 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7621,7 +7553,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0150")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -7839,7 +7771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcc5c26f-85a6-422b-95e5-49209a4b0060")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR0102"
 			(at 46.99 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7899,7 +7831,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0139")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -7997,7 +7929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f10f4510-326b-4d70-85dc-38c0ea1f699c")
-		(property "Reference" "#PWR0148"
+		(property "Reference" "#PWR0111"
 			(at 170.18 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8057,7 +7989,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0148")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -8155,7 +8087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f61bfee9-e4d2-401a-9122-95b7e48356ca")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR0103"
 			(at 46.99 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -8215,7 +8147,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/0bac7f1f-1f67-4b48-9eeb-eb92400ef0c7"
-					(reference "#PWR0140")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)

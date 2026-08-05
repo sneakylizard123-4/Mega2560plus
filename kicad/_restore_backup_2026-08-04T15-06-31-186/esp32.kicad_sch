@@ -6539,17 +6539,6 @@
 		)
 		(uuid "00922ef5-89b2-486c-88e5-58220b70e9fd")
 	)
-	(hierarchical_label "ESP32_NPX"
-		(shape input)
-		(at 177.8 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0a7c3564-4c2e-4b2d-b640-d8c48a0a8642")
-	)
 	(hierarchical_label "IMU_INT1"
 		(shape input)
 		(at 144.78 85.09 180)
@@ -6626,6 +6615,17 @@
 			(justify right)
 		)
 		(uuid "34f6a2d6-90b8-4b27-9039-15762851f787")
+	)
+	(hierarchical_label "IO39"
+		(shape input)
+		(at 177.8 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b9c7227-b67d-4cb2-ba59-1124e0c98f93")
 	)
 	(hierarchical_label "RESET"
 		(shape input)
@@ -6835,7 +6835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 72.39 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6917,7 +6917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 223.52 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -6999,7 +6999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 212.09 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -7590,7 +7590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 111.76 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8062,7 +8062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 201.93 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8300,7 +8300,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 86.36 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8380,7 +8380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 80.01 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8462,7 +8462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 111.76 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -8542,7 +8542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 77.47 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8624,7 +8624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 156.21 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -8704,7 +8704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 74.93 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8786,7 +8786,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 124.46 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -8947,7 +8947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 124.46 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9186,7 +9186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 238.76 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -9678,7 +9678,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 144.78 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -9959,7 +9959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 73.66 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10119,7 +10119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 96.52 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10201,7 +10201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 203.2 137.16 0)
 			(hide yes)
 			(show_name no)
