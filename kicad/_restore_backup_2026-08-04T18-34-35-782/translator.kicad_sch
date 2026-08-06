@@ -1204,7 +1204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03a48e57-0b30-40a0-83f1-575e65a0034b")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0130"
 			(at 77.47 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1264,7 +1264,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0129")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)
@@ -1282,7 +1282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e7e5e88-a050-448e-91b5-2cc06ead0fcd")
-		(property "Reference" "#PWR0134"
+		(property "Reference" "#PWR0135"
 			(at 95.25 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1342,7 +1342,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0134")
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -1360,7 +1360,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "157a3ef9-47f2-48c6-a5e0-d51c655c7dfd")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0126"
 			(at 35.56 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -1420,7 +1420,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0125")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -1460,7 +1460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 44.45 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -1704,7 +1704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8357a430-2432-4560-9fab-ce70c030a61a")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR0127"
 			(at 38.1 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -1764,7 +1764,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0126")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -1804,7 +1804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 95.25 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -1864,7 +1864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9405b1cf-6adb-446e-b2a4-a033020e3173")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0134"
 			(at 91.44 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -1924,7 +1924,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0133")
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -1964,7 +1964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 77.47 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -2024,7 +2024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9e3b896-e6ae-4a20-8b47-1afd7e684504")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0129"
 			(at 44.45 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -2084,7 +2084,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0128")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -2124,7 +2124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 26.67 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -2184,7 +2184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be53e936-ff34-4d27-b0d2-42e75c2a7bf9")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR0128"
 			(at 40.64 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -2244,7 +2244,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0127")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -2262,7 +2262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c64b609a-b9cc-4ab3-8b91-daf38c81432f")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0125"
 			(at 30.48 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -2323,7 +2323,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0124")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -2341,7 +2341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2ba2c5b-b3e8-44bd-818a-dd80e746c2ed")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0133"
 			(at 88.9 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -2401,7 +2401,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0132")
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
@@ -2419,7 +2419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e388c3b9-e8ec-4220-a1e2-3472a735fd08")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0124"
 			(at 26.67 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -2479,7 +2479,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0123")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -2497,7 +2497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0a6bde9-014c-4285-8c6b-343fa3d4b2a6")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0131"
 			(at 77.47 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2557,7 +2557,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0130")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -2575,7 +2575,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7427080-14ba-4284-b234-e4e4031647bb")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0132"
 			(at 86.36 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -2635,7 +2635,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/ec6a905e-0fb5-429e-8345-9f6c97cc3e28"
-					(reference "#PWR0131")
+					(reference "#PWR0132")
 					(unit 1)
 				)
 			)

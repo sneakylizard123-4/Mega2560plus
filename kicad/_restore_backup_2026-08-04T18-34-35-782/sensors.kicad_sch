@@ -2384,7 +2384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2301e54e-f656-4fac-9351-97f231002cb7")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR073"
 			(at 187.96 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -2444,7 +2444,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR072")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -2462,7 +2462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c897de8-cd70-49be-be95-59c46a065e80")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 46.99 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -2522,7 +2522,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -2562,7 +2562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 45.72 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -2702,7 +2702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b6a2dbf-7662-404f-93d6-28d91155b5d1")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 45.72 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -2762,7 +2762,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -2899,7 +2899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84aa9ce3-8369-4c0f-8eb1-5df92f9837ab")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR065"
 			(at 96.52 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -2959,7 +2959,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR064")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -2977,7 +2977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "983a45c0-1cb8-4fb5-93b9-725f04615257")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR064"
 			(at 81.28 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -3037,7 +3037,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR063")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -3055,7 +3055,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c236892-e68f-4f69-9113-c7d69826faf2")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR070"
 			(at 128.27 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -3115,7 +3115,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR069")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -3155,7 +3155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 189.23 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -3237,7 +3237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 99.06 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3319,7 +3319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 81.28 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3379,7 +3379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bdac3739-a164-48a4-9479-64bfedb88dd8")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR068"
 			(at 113.03 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -3439,7 +3439,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR067")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -3457,7 +3457,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be8b1d79-d987-423f-b8f5-844ff1237571")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR066"
 			(at 92.71 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3517,7 +3517,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR065")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -3635,7 +3635,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0717b21-3768-493c-a71f-928a9e065024")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR072"
 			(at 182.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3695,7 +3695,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR071")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -3713,7 +3713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db426869-e3e1-4d63-9b81-1bd8b45d6a27")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR071"
 			(at 173.99 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -3773,7 +3773,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR070")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -3791,7 +3791,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc60cd48-8de8-48fd-832b-e0921a4baea3")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR067"
 			(at 99.06 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -3851,7 +3851,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR066")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -3869,7 +3869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "debfd48f-1c90-466c-b9cb-8ec2c1afaf9c")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR074"
 			(at 189.23 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -3929,7 +3929,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR073")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -3947,7 +3947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5642bfd-0b65-454a-8b99-2a93e220d515")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 43.18 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4007,7 +4007,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -4047,7 +4047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 173.99 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -4107,7 +4107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1200535-3716-4a48-9507-0b9facb91922")
-		(property "Reference" "R20"
+		(property "Reference" "R22"
 			(at 111.76 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4129,7 +4129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 109.22 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -4171,7 +4171,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "R20")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -4189,7 +4189,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffa2c197-517d-4ff6-a28f-adee4115ffe8")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR069"
 			(at 107.95 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4250,7 +4250,7 @@
 		(instances
 			(project "Mega2560plus"
 				(path "/ce6f43d9-fcd1-49cd-b6fd-73341a971489/98d1d881-765e-4e0f-86d9-02290396d6f7"
-					(reference "#PWR068")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
