@@ -1,2 +1,5 @@
 *.lck
 *.log
+*.tmp
+*.bak
+*.lck

@@ -5417,30 +5417,6 @@
 			)
 		)
 	)
-	(global_label "AVR_TX3"
-		(shape input)
-		(at 36.83 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a17102c1-40c1-4eb2-9992-f72f5e687117")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.0434 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "PC7"
 		(shape input)
 		(at 229.87 114.3 0)
@@ -5606,30 +5582,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "AVR_RX3"
-		(shape input)
-		(at 36.83 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "aded31e8-0f31-4b29-b746-ef0211045c25")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.741 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -5966,6 +5918,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "ATMEGA_RX"
+		(shape input)
+		(at 36.83 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c0feb60a-5346-4413-8359-bd378aa9d2dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.173 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -7118,6 +7094,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "ATMEGA_TX"
+		(shape input)
+		(at 36.83 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f638e7dd-7d62-44ff-a0e0-f56140b124e9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.6849 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
